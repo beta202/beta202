@@ -4,13 +4,11 @@
 <h2 align="center">Welcome to my profile!</h2>
 </p>
 
-
-
-<h2>Currently in...</h2>
+<h2>⭐ Currently in...</h2>
 
 * CSS and Web Designing.
 * Game and Web Developer!
 
-<h2>Current Projects:</h2>
+<h2>✏️ Current Projects:</h2>
 
 I am not currently working on anything public yet!
