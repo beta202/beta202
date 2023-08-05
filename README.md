@@ -6,11 +6,25 @@
 <br>
 </br>
 
-## ⭐ Currently in to...
+## ⭐ Skills
 
-> CSS and Web Design.
+> HTML
 
-> Game and Web Development
+> JS
+
+> CSS
+
+> Java
+
+> Python
+
+> PHP
+
+> Swift
+
+> C#
+
+> C++
 <br>
 </br>
 
