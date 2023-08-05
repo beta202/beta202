@@ -6,7 +6,7 @@
 <br>
 </br>
 
-## ⭐ I commonly work with-
+## ⭐ I commonly work with
 
 > HTML
 
