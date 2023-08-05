@@ -1,12 +1,12 @@
 <p align="center">
 <img style="width: 200px;" align="center" src="https://i.postimg.cc/d0t5YKsj/download-1.png"> 
-<h1><p align="center">👋 Hi there, I am Beta202!</p></h1>
+<h1><p align="center">👋 Hi, I'm @beta202</p></h1>
 <h3 align="center">Full stack developer and web designer</h3>
 </p>
 <br>
 </br>
 
-## ⭐ Skills
+## ⭐ I commonly work with:
 
 > HTML
 
@@ -17,14 +17,6 @@
 > Java
 
 > Python
-
-> PHP
-
-> Swift
-
-> C#
-
-> C++
 <br>
 </br>
 
