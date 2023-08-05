@@ -22,4 +22,4 @@
 
 ## ✏️ Current Projects
 
-> I am not currently working on anything public yet!
+> Python Calculator - [View](https://github.com/beta202/pyCalculator)
