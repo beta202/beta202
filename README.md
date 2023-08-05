@@ -1,7 +1,7 @@
 <p align="center">
 <img style="width: 200px;" align="center" src="https://i.postimg.cc/d0t5YKsj/download-1.png"> 
 <h1><p align="center">👋 Hi there, I am Beta202!</p></h1>
-<h3 align="center">Welcome to my profile!</h3>
+<h3 align="center">Full stack and web developer</h3>
 </p>
 <br>
 </br>
