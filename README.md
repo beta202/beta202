@@ -6,7 +6,7 @@
 <br>
 </br>
 
-## ⭐ I commonly work with:
+## ⭐ I commonly work with-
 
 > HTML
 
@@ -20,6 +20,6 @@
 <br>
 </br>
 
-## ✏️ Public Projects
+## ✏️ Current Projects
 
 > I am not currently working on anything public yet!
