@@ -6,7 +6,7 @@
 <br>
 </br>
 
-## ⭐ Currently in...
+## ⭐ Currently in to...
 
 > CSS and Web Design.
 
