@@ -24,4 +24,4 @@
 
 ## ✏️ Current Projects
 
-> Python Calculator - [View](https://github.com/beta202/pyCalculator)
+> Nothing at the moment!
