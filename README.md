@@ -8,6 +8,7 @@
 
 ## ⭐ I commonly work with
 
+```
 > HTML
 
 > JS
@@ -19,5 +20,6 @@
 > Swift
 
 > Python
+```
 <br>
 </br>
