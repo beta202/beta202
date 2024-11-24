@@ -13,23 +13,19 @@ $ initiate skills
 
 
 
-> HTML
+> Front End Languages
 
-> JS
+  > HTML5
+  > CSS3
+  > Javascript
+  > SwiftUI + UIKit
+
+> Backend
 
   > Node.js
   > React
-
-
-> CSS
-
-> Java
-
-
-> Swift
-
-  > SwiftUI
-  > UIKit
+  > Java
+  > Python
 
 
 > Python
