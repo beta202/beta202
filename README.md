@@ -17,11 +17,20 @@ $ initiate skills
 
 > JS
 
+  > Node.js
+  > React
+
+
 > CSS
 
 > Java
 
+
 > Swift
+
+  > SwiftUI
+  > UIKit
+
 
 > Python
 ```
