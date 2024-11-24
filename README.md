@@ -8,28 +8,27 @@
 
 ## ⭐ I commonly work with
 
-```
+```bash
 $ initiate skills
 
 
 
 > Front End Languages
 
-  > HTML5
-  > CSS3
-  > Javascript
-  > SwiftUI + UIKit
+  # HTML5
+  # CSS3
+  # Javascript
+  # SwiftUI + UIKit
 
 
 > Backend
 
-  > Node.js
-  > React
-  > Java
-  > Python
+  # Node.js
+  # React
+  # Java
+  # Python
 
 
-> Python
 ```
 <br>
 </br>
