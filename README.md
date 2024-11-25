@@ -11,7 +11,7 @@
 ```bash
 $ initiate skills
 
-
+# [===========================] (100%)
 
 > Front End Languages
 
