@@ -13,8 +13,6 @@ $ initiate skills
 
 # [===========================] (100%)
 
-
-
 > Front End Languages
 
   # HTML5
