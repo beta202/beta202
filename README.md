@@ -1,16 +1,34 @@
-## Hi there 👋
+<p align="center">
+<img style="width: 200px;" align="center" src="https://i.ibb.co/By8s3Lb/unnamed-modified.png"> 
+<h1><p align="center">👋 Greetings, I'm Ben</p></h1>
+<h3 align="center">⚙️ Full stack developer and web designer 🖌️</h3>
+</p>
+<br>
+</br>
 
-<!--
-**beta202/beta202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⭐ I commonly work with
 
-Here are some ideas to get you started:
+```bash
+$ initiate skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# [===========================] (100%)
+
+> Front End
+
+  # HTML5
+  # CSS3
+  # Javascript
+  # SwiftUI + UIKit
+  # React
+
+
+> Backend
+
+  # Node.js
+  # Java
+  # Python
+
+
+```
+<br>
+</br>
