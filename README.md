@@ -13,16 +13,16 @@ $ initiate skills
 
 # [===========================] (100%)
 
-> Front End
+> FRONTEND LANGUAGES & TECHNOLOGIES 
 
-  # HTML5
-  # CSS3
+  # HTML
+  # CSS
   # Javascript
   # SwiftUI + UIKit
   # React
 
 
-> Backend
+> BACKEND LANGUAGES & TECHNOLOGIES
 
   # Node.js
   # Java
