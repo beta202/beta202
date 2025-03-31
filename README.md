@@ -70,7 +70,6 @@ $ initiate desktop/benpark202/my-projects
 
   # AP World History Project for the Industrial Revolution
 
-
 ```
 <br>
 </br>
