@@ -1,6 +1,21 @@
+<br>
+</br>
 <h1 align="center">👋 Greetings, I'm Ben ☕</h1>
 <h3 align="center">⚙️ Full stack developer and web designer 🖌️</h3>
 </p>
+<br>
+</br>
+
+```bash
+
+> Welcome to my Github Profile :-)
+
+
+  # I am currently a junior student passionate about all things technology and love making apps.
+
+  # When I'm not programming, I enjoy photography and running!  
+
+```
 <br>
 </br>
 
