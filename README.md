@@ -4,7 +4,7 @@
 <br>
 </br>
 
-## 🌳 A little about me:
+## 🌳  A little about what I do:
 
 ```bash
 $ initiate skills
@@ -29,12 +29,31 @@ $ initiate skills
 
 > Technologies & Frameworks  🧑‍💻
 
-# React
-# Tailwind
-# SwiftUI
-# UIKit
-# Node.js
-# Flask
+  # React
+  # Tailwind
+  # SwiftUI
+  # UIKit
+  # Node.js
+  # Flask
+
+```
+
+
+<br>
+</br>
+
+
+## 💡  Recent Work
+
+```bash
+$ initiate desktop/benpark202/my-projects
+
+# [===========================] (100%)
+
+> Loaded (1 of 1)
+
+
+  # AP World History Project for the Industrial Revolution
 
 
 ```
