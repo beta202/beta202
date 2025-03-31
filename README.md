@@ -16,6 +16,7 @@ $ initiate skills
   # HTML
   # CSS
   # JavaScript
+  # TypeScript
   # Swift
 
 
