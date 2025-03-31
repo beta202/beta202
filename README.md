@@ -11,7 +11,7 @@
 > Welcome to my Github Profile :-)
 
 
-  # I am currently a junior student passionate about all things technology and love making apps.
+  # I am currently a junior student passionate about all things technology and enjoy making apps.
 
   # When I'm not programming, I enjoy photography and running!  
 
